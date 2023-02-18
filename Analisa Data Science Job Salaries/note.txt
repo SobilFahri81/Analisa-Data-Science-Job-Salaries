@@ -1,0 +1,13 @@
+https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
+
+work_year : Tahun gaji dibayarkan.
+experience_level : Tingkat pengalaman dalam pekerjaan selama setahun dengan kemungkinan nilai berikut: EN Entry-level / Junior MI Tingkat menengah / Menengah SE Tingkat Senior / Expert EX Tingkat eksekutif / Direktur
+employment_type : Jenis pekerjaan untuk peran: PT Part-time FT Full-time CT Contract FL Freelance
+job_title : Peran itu berhasil di sepanjang tahun.
+salary : Jumlah total gaji kotor yang dibayarkan.
+salary_currency : Mata uang gaji yang dibayarkan sebagai kode mata uang ISO 4217.
+salaryinusd : Gaji dalam USD (kurs FX dibagi dengan kurs rata-rata USD untuk tahun yang bersangkutan melalui fxdata.foorilla.com).
+employee_residence : Negara tempat tinggal utama karyawan selama tahun kerja sebagai kode negara ISO 3166.
+remote_ratio : Jumlah keseluruhan pekerjaan yang dilakukan dari jarak jauh, nilai yang mungkin adalah sebagai berikut: 0 Tidak ada pekerjaan jarak jauh (kurang dari 20%) 50 Jauh sebagian 100 Jauh sepenuhnya (lebih dari 80%)
+company_location : Negara kantor utama majikan atau cabang kontraktor sebagai kode negara ISO 3166.
+company_size : Rata-rata jumlah orang yang bekerja untuk perusahaan selama setahun: S kurang dari 50 karyawan (kecil) M 50 hingga 250 karyawan (sedang) L lebih dari 250 karyawan (besar)
